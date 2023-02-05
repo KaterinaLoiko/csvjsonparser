@@ -1,0 +1,21 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA project files
+**/.idea/
+*.iml
+*.tar.gz
+*.epoch
+*.au3
+
+**/.classpath
+**/.project
+**/.settings
+**/test-output
+**/target/
+**/build
+/bin/
